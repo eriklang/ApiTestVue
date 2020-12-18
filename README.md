@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Publishing a new repository to GitHub from VS code
+https://losol.io/publishing-a-new-repository-to-github-from-vs-code/
