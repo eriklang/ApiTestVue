@@ -35,7 +35,6 @@ const store = createStore({
           "ApiName": "Api 2",
           "Type": "POST",
           "ApiId": "2"
-
         },
         {
           "GroupName": "Group1",
@@ -61,6 +60,24 @@ const store = createStore({
           "ApiName": "Api 3-2",
           "Type": "PUT",
           "ApiId": "6"
+        },
+        {
+          "GroupName": "Group1",
+          "ApiName": "Api 7",
+          "Type": "GET",
+          "ApiId": "7"
+        },
+        {
+          "GroupName": "Group1",
+          "ApiName": "Api 8",
+          "Type": "POST",
+          "ApiId": "8"
+        },
+        {
+          "GroupName": "Group1",
+          "ApiName": "Api 9",
+          "Type": "PUT",
+          "ApiId": "9"
         }
       ];
 

@@ -2,10 +2,8 @@
   <div>
     <section>
       <base-card>
+        {{ GroupName }}
         <ul>
-          {{
-            GroupName
-          }}
           <end-point
             v-for="a in filterApiList"
             :key="a.ApiId"
@@ -51,5 +49,10 @@ ul {
 .controls {
   display: flex;
   justify-content: space-between;
+}
+
+ul > li {
+  display: inline-block;
+  zoom: 1;
 }
 </style>

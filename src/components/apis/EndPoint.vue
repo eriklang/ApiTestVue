@@ -15,7 +15,7 @@ export default {
 
 <style scoped>
 li {
-  margin: 1rem 0;
+  margin: 1rem 1rem;
   border: 1px solid #424242;
   border-radius: 12px;
   padding: 1rem;
